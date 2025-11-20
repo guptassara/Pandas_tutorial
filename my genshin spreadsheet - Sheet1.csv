@@ -1,0 +1,58 @@
+S.No.,Name,Element,Level,Constellation,Type,Talent-attack,Talent-skill,Talent-burst,Weapon,Weapon_name
+1,Traveller,,90,6,,0,0,0,sword,calamity of eshu
+1,Traveller,,90,6,,0,0,0,sword,calamity of eshu
+1,Traveller,,90,6,,0,0,0,sword,calamity of eshu
+1,Traveller,,90,6,,0,0,0,sword,calamity of eshu
+2,Amber,pyro,20,0,sub-dps,1,1,1,Bow,
+3,Xiangling,pyro,90,2,sub-dps,7,7,9,Polearm,Skyward Spine
+4,Noelle,geo,40,1,dps,1,1,1,Claymore,
+5,kaeya,cryo,90,0,sub dps,3,5,6,Sword,
+5,kaeya,cryo,90,0,sub dps,3,5,6,Sword,
+5,kaeya,cryo,90,0,sub dps,3,5,6,Sword,
+5,kaeya,cryo,90,0,sub dps,3,5,6,Sword,
+6,lisa,electro,36,0,sub-dps,1,1,1,Catalyst,
+7,collei,dendro,40,3,sub-dps,1,4,1,Bow,
+8,diona,cryo,70,4,shielder,1,4,7,Bow,
+9,barbara,hydro,50,6,healer,1,4,4,Catalyst,
+10,candace,hydro,20,3,Sheilder,1,1,4,Polearm,
+11,lynette,anemo,38,1,sub-dps,1,1,1,Sword,
+12,xingqui,hydro,90,6,sub-dps,6,10,11,Sword,Sacrificial Sword
+13,kequing,electro,80,0,dps,6,8,8,Sword,
+14,kuki shinobu,electro,90,3,"healer, sub-dps",6,9,6,Sword,
+15,sethos,electro,20,3,dps,4,1,1,Bow,
+16,chongyun,cryo,1,2,sub-dps,1,1,1,Claymore,
+17,sucrose,anemo,90,2,buffer,6,7,7,Catalyst,Mappa Mare
+18,kachina,geo,60,6,sub-dps,1,4,4,Polearm,
+19,benette,pyro,90,5,"buffer, healer, sub dps, dps",6,9,11,Sword,Favonious sword
+20,sayu,anemo,1,1,sub-dps,1,1,1,Claymore,
+21,mavuika,pyro,90,0,dps,7,8,10,Claymore,Earth Shaker
+22,gaming,pyro,20,1,dps,1,1,1,Claymore,
+23,jean,anemo,70,2,healer,1,2,3,Sword,
+24,chevruse,pyro,90,6,buffer,2,9,7,Polearm,Black tassel
+25,heizou,anemo,1,0,dps,1,1,1,Catalyst,
+26,lanyan,anemo,2,0,shielder ,1,1,1,Catalyst,
+27,clorinde,electro,90,0,dps,7,8,8,Sword,
+28,razor,electro,1,0,dps,1,1,1,Claymore,
+29,rosaria,cryo,50,1,sub-dps,1,1,1,Polearm,
+30,furina,hydro,90,0,"buffer, healer, sub dps, dps",6,7,7,Sword,Favonious sword
+31,mika,cryo,1,2,buffer,1,1,1,Polearm,
+32,charlotte,cryo,1,1,sub-dps,1,1,1,Catalyst,
+33,wriothesely,cryo,90,0,dps,9,9,9,Catalyst,Widsth
+34,iansan,electro,80,0,buffer,1,4,6,Polearm,
+35,ororon,electro,90,1,sub dps,6,6,6,Bow,The stringless
+36,beidou,electro,1,4,sub-dps,1,4,1,Claymore,
+37,faruzan,anemo,1,0,buffer,1,1,1,Bow,
+38,diluc,pyro,60,0,dps,1,1,1,Claymore,
+39,yanfie,pyro,1,1,dps,1,1,1,Catalyst,
+40,layla,cryo,90,0,shielder,1,6,6,Sword,Sacrificial Sword
+41,ifa,anemo,90,3,dps,6,9,6,Catalyst,
+42,escoffie,cryo,90,0,buffer,5,6,6,Polearm,
+43,mizuki,anemo,1,0,dps,1,4,1,Catalyst,
+44,yaoyao,dendro,40,4,healer,1,4,1,Polearm,
+45,Lauma,dendro,90,0,buffer,6,8,8,Catalyst,
+46,Tighnari,dendro,3,0,dps,1,1,1,Bow,
+47,Aino,hydro,80,0,sub dps,1,1,4,Claymore,Flame-Forged insight
+48,Nahida,dendro,90,0,"sub-dps, buffer",2,5,4,Catalyst,
+49,Kirara,dendro,1,0,Sheilder,1,1,1,Sword,
+50,Nefer,dendro,90,0,dps,6,10,8,Catalyst,Reliquary of Truth
+51,Ningguang,geo,1,0,Sheilder,1,1,1,Catalyst ,
